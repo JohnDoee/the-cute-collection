@@ -1,0 +1,1 @@
+Copied directly from the Tesseract project and is under their respective license.
