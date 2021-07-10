@@ -20,7 +20,7 @@ cd the-cute-collection
 python3 -m venv .env
 
 .env/bin/pip install -U setuptools pip wheel
-.env/bin/pip install ffmpeg-python click guessit opencv-python librosa pysubs2 scikit-image jinja2 lxml tqdm pyxdameraulevenshtein textblob jinja2 pytesseract lxml
+.env/bin/pip install ffmpeg-python click guessit opencv-python librosa pysubs2 scikit-image jinja2 lxml tqdm pyxdameraulevenshtein textblob jinja2 pytesseract lxml annoy
 ```
 
 ## Cartonizer
